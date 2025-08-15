@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "CodeGenius AI",
+  "description": "An AI-powered toolkit for technology educators and learners, providing tools for coding, system design, and more.",
+  "prompt": ""
+}
